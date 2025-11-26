@@ -378,8 +378,8 @@ This project is designed to be **safe for public GitHub repositories**:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/shiva1137)
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shivaprakashchandrasekar/))
 
 ## 🙏 Acknowledgments
 
